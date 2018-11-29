@@ -4,6 +4,7 @@ import photo from './photo.jpg';
 
 const Home = ({ t }) => (
   <div className='preview'>
+    <p>{t('home.welcome')}</p>
     <h1>{t('home.title')}</h1>
     <div>
       <figure className='center'>
