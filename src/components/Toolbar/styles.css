@@ -35,6 +35,10 @@
   background: url('./img/en_flag.jpg') 0 0 no-repeat;
 }
 
+.language button.es {
+  background: url('./img/es_flag.jpg') 0 0 no-repeat;
+}
+
 .language button.active {
   height: 26px;
   border-bottom: 5px solid #fff;

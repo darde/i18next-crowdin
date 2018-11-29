@@ -43,6 +43,11 @@ class Toolbar extends React.Component {
             onClick={this.changeLanguage}
             value='en'
           />
+          <button
+            className={this.state.lng === 'es' ? 'es active' : 'es'}
+            onClick={this.changeLanguage}
+            value='es'
+          />
         </nav>
       </div>
     );
