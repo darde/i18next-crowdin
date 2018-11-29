@@ -1,6 +1,6 @@
 import pt from './default.json';
 import en from './default.en.json';
-import es from './default.en.json';
+import es from './default.es.json';
 import homePt from '../../components/Home/locales/default.json';
 import homeEn from '../../components/Home/locales/default.en.json';
 import homeEs from '../../components/Home/locales/default.es.json';
