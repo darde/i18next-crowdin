@@ -1,8 +1,8 @@
 {
-  "welcome": "Benvindo",
-  "title": "Faróis",
-  "content": "Conheça os mais lindos faróis do mundo.",
+  "welcome": "Bienvenido",
+  "title": "Faros",
+  "content": "Conozca los más hermosos faros del mundo.",
   "figure": {
-    "alt": "Foto de farol"
+    "alt": "Foto de faro"
   }
 }
