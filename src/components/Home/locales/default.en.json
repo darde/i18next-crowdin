@@ -1,3 +1,8 @@
 {
-  
+  "welcome": "Welcome",
+  "title": "Lighthouses",
+  "content": "Meet the most beautiful lighthouses in the world.",
+  "figure": {
+    "alt": "Photo of lighthouse"
+  }
 }
