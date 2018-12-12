@@ -1,3 +1,8 @@
 {
-  
+  "welcome": "Bienvenido",
+  "title": "Faros",
+  "content": "Conozca los más hermosos faros del mundo.",
+  "figure": {
+    "alt": "Foto de faro"
+  }
 }
