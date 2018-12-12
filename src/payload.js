@@ -6,12 +6,6 @@ export const lighthouses = [
     label: 'Augustine',
   },
   {
-    label: 'Lindau',
-  },
-  {
     label: 'Peggys',
-  },
-  {
-    label: 'Hercules',
-  },
+  }
 ];
