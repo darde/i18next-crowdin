@@ -1,8 +1,8 @@
 {
-  "welcome": "Benvindo",
-  "title": "Faróis",
-  "content": "Conheça os mais lindos faróis do mundo.",
+  "welcome": "Welcome",
+  "title": "Lighthouses",
+  "content": "Meet the most beautiful lighthouses in the world.",
   "figure": {
-    "alt": "Foto de farol"
+    "alt": "Photo of lighthouse"
   }
 }
